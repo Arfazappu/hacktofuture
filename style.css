@@ -269,3 +269,31 @@
     border-radius: 5px;
     margin-top: 10px;
   }
+ .std-box{
+    text-align: center;
+    width: 33%;
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 9px;
+    margin:5px;
+    background-color: rgba(240, 248, 255, 0.452);
+  }
+
+  .std-box img{
+        border-radius: 10px;
+        height: 50%;
+  }
+
+  .di-box{
+    text-align: center;
+    width: 25%;
+    border: 1px solid;
+    border-radius: 10px;
+    padding: 9px;
+    margin:5px;
+    background-color: rgba(240, 248, 255, 0.452);
+  }
+  .di-box img{
+    border-radius: 10px;
+    height: 50%;
+  }
