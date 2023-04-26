@@ -297,3 +297,7 @@
     border-radius: 10px;
     height: 50%;
   }
+ .about-container {
+    background-image: linear-gradient(to bottom right, white, lightblue, lightpink);
+    height: 100vh;
+}
